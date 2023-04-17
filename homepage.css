@@ -20,21 +20,24 @@
     right: 5px;
     list-style: none;
     color: white;
-    margin-left: 1860px;
-    
-   
+    margin-left: 1860px;  
 
 }
 
+li{
+
+    float: left;
+}
+
 .but1{
-    display: inline-block;
+    
 
     font-size: larger;
 
 }
 
 .but2{
-    display: inline-block;
+    
     font-size: larger;
     padding-left: 35px;
 }
@@ -53,11 +56,7 @@
 .mainimage{
    
     position: relative;
-    bottom: 8px;
-    
-    margin: 0;
-    padding: 0;
-    
+    bottom: 9px;
 }
 
 .mainimage{
